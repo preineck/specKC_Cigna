@@ -1,0 +1,15 @@
+{
+  "name": "speckc_cigna_import",
+  "version": "1.0.0",
+  "description": "Import fixed-width Cigna file (Medical claims)",
+  "main": "app.js",
+  "dependencies": {
+    "fixy": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Reineck",
+  "license": "ISC"
+}
